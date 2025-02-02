@@ -14,10 +14,14 @@ A Multi Whatsapp Bot Created By Rahul-Master ,# RAHUL - XD - V3 ( MULTI DEVICE W
 
 <hr>
 
-  RAHUL-XD V3 bot is a user bot for WhatsApp that allows you to perform many tasks.
+  <p align="center">
+<a href="https://github.com/Sarkar-Bandaheali?tab=followers"><img title="Followers" src="https://img.shields.io/github/followers/Sarkar-Bandaheali?label=Followers&style=social"></a>
+<a href="https://github.com/Sarkar-Bandaheali/Sarkar-MD/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/Sarkar-Bandaheali/Sarkar-MD?&style=social"></a>
+<a href="https://github.com/Sarkar-Bandaheali/Sarkar-MD/network/members"><img title="Fork" src="https://img.shields.io/github/forks/Sarkar-Bandaheali/Sarkar-MD?style=social"></a>
+<a href="https://github.com/Sarkar-Bandaheali/Sarkar-MD/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/Sarkar-Bandaheali/Sarkar-MD?label=Watching&style=social"></a>
+</p>></a>                     
 
- 
-<
+
   
 ***WARNING : FOLLOW MY STEPS***  ✅
 
