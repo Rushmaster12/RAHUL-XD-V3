@@ -16,8 +16,10 @@ let dec = `💫 HEY ${pushname} THIS IS MY MENU ®️
 │®️ ʙᴏᴛ ɴᴀᴍᴇ: RAHUL-XD-V3
 │☑️ ᴏᴡɴᴇʀ : RAHUL-MASTER    
 │📌 ᴠᴇʀꜱɪᴏɴ: 1.1.3
-│💫 ᴘʟᴀᴛғᴏʀᴍ: *ʟɪɴᴜx*
+│💫 ᴘʟᴀᴛғᴏʀᴍ: *${os.platform()}*
 │💾 ʀᴀᴍ : *258GB*
+│🪀 ᴍᴏᴅᴇ: *${mode}*
+│🪀 ᴘʀᴇғɪx: [${pref}]
 ╰───────────━┈⊷ 
 
 ╭──────────●●►
@@ -39,6 +41,7 @@ let dec = `💫 HEY ${pushname} THIS IS MY MENU ®️
 ┊ .video
 ┊ .fb
 ┊ .mediafire
+┊ .Yt
 
 ╭════════════⊷❍ 
 ┊ 3 || SEARCH MENU
@@ -67,6 +70,7 @@ let dec = `💫 HEY ${pushname} THIS IS MY MENU ®️
 ┊ .clearchats
 ┊ .restart
 ┊ .broadcast
+┊ .fullpp
 
 ╭════════════⊷❍ 
 ┊ 5 || OTHER MENU
