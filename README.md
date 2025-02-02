@@ -1,5 +1,4 @@
 # RAHUL-XD-V3
-A Multi Whatsapp Bot Created By Rahul-Master ,# RAHUL - XD - V3 ( MULTI DEVICE WHATSAPP BOT ) ®️
 24×7 HOURS STATUS AUTO SEEN MULTI DEVICE WA BOT ✅
 ***
 </p> <p align="center">
