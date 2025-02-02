@@ -38,20 +38,22 @@ A Multi Whatsapp Bot Created By Rahul-Master ,# RAHUL - XD - V3 ( MULTI DEVICE W
 
 03 . NOW ®️ RAHUL XD V3 BOT DEPLOY PLATFORMS 🚩🇮🇳
 
-DEPLOY ON PANEL ( BOT HOSTING ) ☑️
+
+**DEPLOY ON PANEL ( BOT HOSTING ) ☑️**
  
 <a href='https://bot-hosting.net/?aff=1097457675723341836' target="_blank"><img alt='Panel Link'
 src='https://img.shields.io/badge/HOSTING%20PANEL-blue?style=for-the-badge&logo=Cloudflare&logoColor=white'/></a>
 
-DEPLOY ON RENDER ✅
+**03 .DEPLOY ON RENDER ✅**
 
 <a href='https://dashboard.render.com' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/RENDER-h?color=maroon&style=for-the-badge&logo=render'/></a></p>
 
-DEPLOY ON HEROKU ✅
+**04  .DEPLOY ON HEROKU ✅**
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/rahulmaster143/RAHUL-XD-V3)
   </a>
 
+ 
   ### Bot Features ✅☑️🌈
 
 | MAIN MENU | GROUP MENU | DOWNLOAD MENU | SEARCH MENU | OTHER MENU |
@@ -64,11 +66,17 @@ DEPLOY ON HEROKU ✅
 *SPECIAL THANKS TO* , 👨🏻‍💻🚩
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
-OWNERS™ : 
+
+**OWNERS™ :** 
 
 **[1=RAHUL-MASTER**
 
 
+
+
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+<p align="center">
+	
 **[2=MANOJ-XD**
 
 
@@ -93,11 +101,22 @@ OWNERS™ :
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <p align="center">
 
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+<p align="center">
+
+ <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+<p align="center">
+
+ <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+<p align="center">
+
+ 
 THE BOT IS UNDER THE DEVELOPMENT SOMETIMES YOU CAN SEE SOME ERRORS 💢
 
 DONOT THINK ABOUT THAT ,
 
-*WE WILL FIX THE ERRORS IN THE NEXT UPDATE ✅*
+
+**WE WILL FIX THE ERRORS IN THE NEXT UPDATE ✅**
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
