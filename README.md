@@ -108,7 +108,7 @@ src='https://img.shields.io/badge/HOSTING%20PANEL-blue?style=for-the-badge&logo=
 
 **[3=ROMEK-XD** **ERROR FIX ❤️‍🔥**
 
-<a href="https://github.com/ROMEKTRICKS/"><img src="https://files.catbox.moe/fgpxbl.jpg" width=80 height=80></a>   
+<a href="https://github.com/ROMEKTRICKS/"><img src="https://files.catbox.moe/fgpxbl.jpg" width=100 height=100></a>   
 
 |**[`ROMEK-XD`](https://github.com/ROMEKTRICKS)**|
 
