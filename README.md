@@ -86,14 +86,17 @@ src='https://img.shields.io/badge/HOSTING%20PANEL-blue?style=for-the-badge&logo=
  </p>
 <p align="center">
 
+|**[`RAHUL-MASTER`](https://github.com/Rahulmaster143)**|
+
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <p align="center">
 
-|**[`RAHUL-MASTER`](https://github.com/Rahulmaster143)**|
+
 	
 **[2=MANOJ-XD** **😎HELPER**
 
 
+|**[`MANOJ-XD`](https://github.com/)**|
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <p align="center">
