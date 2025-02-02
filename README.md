@@ -15,10 +15,10 @@ A Multi Whatsapp Bot Created By Rahul-Master ,# RAHUL - XD - V3 ( MULTI DEVICE W
 <hr>
 
   <p align="center">
-<a href="https://github.com/Sarkar-Bandaheali?tab=followers"><img title="Followers" src="https://img.shields.io/github/followers/Sarkar-Bandaheali?label=Followers&style=social"></a>
-<a href="https://github.com/Sarkar-Bandaheali/Sarkar-MD/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/Sarkar-Bandaheali/Sarkar-MD?&style=social"></a>
-<a href="https://github.com/Sarkar-Bandaheali/Sarkar-MD/network/members"><img title="Fork" src="https://img.shields.io/github/forks/Sarkar-Bandaheali/Sarkar-MD?style=social"></a>
-<a href="https://github.com/Sarkar-Bandaheali/Sarkar-MD/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/Sarkar-Bandaheali/Sarkar-MD?label=Watching&style=social"></a>
+<a href="https://github.com/Rahulmaster143?tab=followers"><img title="Followers" src="https://img.shields.io/github/followers/Rahulmaster143?label=Followers&style=social"></a>
+<a href="https://github.com/Rahulmaster143/RAHUL-XD-V3/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/Rahulmaster143/RAHUL-XD-V3?&style=social"></a>
+<a href="https://github.com/Rahulmaster143/RAHUL-XD-V3/network/members"><img title="Fork" src="https://img.shields.io/github/forks/Rahulmaster143/RAHUL-XD-V3?style=social"></a>
+<a href="https://github.com/Rahulmaster143/RAHUL-XD-V3/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/Rahulmaster143/RAHUL-XD-V3?label=Watching&style=social"></a>
 </p>></a>                     
 
 
