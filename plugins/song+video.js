@@ -1,101 +1,59 @@
-const {cmd , commands} = require('../command')
-const fg = require('api-dylux')
-const yts = require('yt-search')
+const config = require('../config');
+const {
+  cmd,
+  commands
+} = require('../command');
+const fetch = require('node-fetch');
 
 cmd({
-    pattern: "song",
-    react: "🎵",
-    desc: "downlod song",
-    category: "downlod",
-    filename: __filename
+  pattern: "ytmp3",
+  category: "downloader",
+  react: "🎥",
+  desc: "Download YouTube audios as MP3",
+  filename: __filename
 },
-async(conn, mek, m,{from, quoted, body, isCmd, command, args, q, isGroup, sender, senderNumber, botNumber2, botNumber, pushname, isMe, isOwner, groupMetadata, groupName, participants, groupAdmins, isBotAdmins, isAdmins, reply}) => {
-try{
+async(conn, mek, m, {from, quoted, body, isCmd, command, args, q, isGroup, sender, senderNumber, botNumber2, botNumber, pushname, isMe, isOwner, groupMetadata, groupName, participants, groupAdmins, isBotAdmins, isAdmins, reply}) => {
+    try {
+        if (!q) return await reply('Please provide a YouTube audio URL.');
 
-if(!q) return reply("*❌Please give me url or titel*")
-const search = await yts(q)
-const deta = search.videos[0];
-const url = deta.url 
+        const url = encodeURIComponent(q);
+        const response = await fetch(`https://dark-shan-yt.koyeb.app/download/ytmp3?url=${url}`);
+        const data = await response.json();
 
-let desc= `
- *🎶𝘼𝘾𝘿-𝗠𝗗   𝗔𝗨𝗗𝗜𝗢-𝗗𝗢𝗪𝗡𝗟𝗢𝗔𝗗𝗘𝗥🎶*
-|__________________________
-| ℹ️ *title* : *${deta.title}*
-| 📋 *description* : *${deta.description}*
-| 🕘 *time* : *${deta.timestamp}*
-| 📌 *ago* : *${deta.ago}*
-| 📉 *views* : *${deta.views}*
-|__________________________
+        if (!data.status) return await reply('Failed to fetch audio details. Please check the URL and try again.');
 
-*©ᴘᴏᴡᴇʀᴅ ʙʏ ᴀᴄᴅ-ᴍᴅ*
+        const audio = data.data;
+        const message = `
+🎶 𝐘𝐓 𝐒𝐎𝐍𝐆 𝐃𝐎𝐖𝐍𝐋𝐎𝐀𝐃 📥
 
-`
+╭━━━━━━━━━●●►
+┢❑ 𝐓𝐢𝐭𝐥𝐞: ${audio.title}
+┢❑ 𝐅𝐨𝐫𝐦𝐚𝐭: ${audio.format}
+┢❑ 𝐓𝐢𝐦𝐞: ${audio.timestump || 'N/A'}
+┢❑ 𝐔𝐩𝐥𝐨𝐚𝐝𝐞𝐝: ${audio.ago || 'N/A'}
+┢❑ 𝐕𝐢𝐞𝐰𝐬: ${audio.views || 'N/A'}
+┢❑ 𝐋𝐢𝐤𝐞𝐬: ${audio.likes || 'N/A'}
+╰━━━━━━━━●●►
+        `;
 
-await conn.sendMessage(from,{image :{ url: deta.thumbnail},caption:desc},{quoted:mek});
+       
+        await conn.sendMessage(from, {
+            image: { url: audio.thumbnail },
+            caption: message
+        });
 
-//downlod audio+ document
+        await conn.sendMessage(from, {
+            document: { url: audio.download },
+            mimetype: 'audio/mp3',
+            fileName: `${audio.title}.mp3`,
+            caption: `ᴅᴀʀᴋ ꜱʜᴀɴ ᴍᴅ`
+        });
 
-let down = await fg.yta(url)
-let downloadUrl = down.dl_url
-
-//send audio message 
-await conn.sendMessage(from,{audio:{url:downloadUrl},mimetype:"audio/mpeg",caption :"*©ᴘᴏᴡᴇʀᴇᴅ ʙʏ ᴀᴄᴅ-ᴍᴅ*"},{quoted:mek})
-await conn.sendMessage(from,{document:{url:downloadUrl},mimetype:"audio/mpeg",fileName:deta.title + ".mp3" ,caption :"*©ᴘᴏᴡᴇʀᴇᴅ ʙʏ ᴀᴄᴅ-ᴍᴅ*"},{quoted:mek})
-
-  
-
-}catch(e){
-console.log(e)
-reply(`${e}`)
-}
-})
-
-//========video dl=======
-
-cmd({
-    pattern: "video",
-    react: "🎥",
-    desc: "downlod video",
-    category: "downlod",
-    filename: __filename
-},
-async(conn, mek, m,{from, quoted, body, isCmd, command, args, q, isGroup, sender, senderNumber, botNumber2, botNumber, pushname, isMe, isOwner, groupMetadata, groupName, participants, groupAdmins, isBotAdmins, isAdmins, reply}) => {
-try{
-
-if(!q) return reply("❌Please give me url or title")
-const search = await yts(q)
-const deta = search.videos[0];
-const url = deta.url 
-
-let desc= `
-*📽️𝘼𝘾𝘿-𝗠𝗗   𝗩𝗜𝗗𝗘𝗢-𝗗𝗢𝗪𝗡𝗟𝗢𝗔𝗗𝗘𝗥📽️*
-|__________________________
-| ℹ️ *title* : *${deta.title}*
-| 📋 *description* : *${deta.description}*
-| 🕘 *time* : *${deta.timestamp}*
-| 📌 *ago* : *${deta.ago}*
-| 📉 *views* : *${deta.views}*
-|__________________________
-
-*©ᴘᴏᴡᴇʀᴅ ʙʏ ᴀᴄᴅ-ᴍᴅ*
-
-`
-
-await conn.sendMessage(from,{image :{ url: deta.thumbnail},caption:desc},{quoted:mek});
-
-//downlod video + document 
-
-let down = await fg.ytv(url)
-let downloadUrl = down.dl_url
-
-//send video  message 
-await conn.sendMessage(from,{video:{url:downloadUrl},mimetype:"video/mp4",caption :"*©ᴘᴏᴡᴇʀᴇᴅ ʙʏ ᴀᴄᴅ-ᴍᴅ*"},{quoted:mek})
-await conn.sendMessage(from,{document:{url:downloadUrl},mimetype:"video/mp4",fileName:deta.title + ".mp4",caption :"*©ᴘᴏᴡᴇʀᴇᴅ ʙʏ ᴀᴄᴅ-ᴍᴅ*"},{quoted:mek})
-
-  
-
-}catch(e){
-console.log(e)
-reply(`${e}`)
-}
-})
+        await conn.sendMessage(from, {
+            react: { text: '✅', key: mek.key }
+        });
+    } catch (e) {
+        console.error(e);
+        await reply(`📕 An error occurred: ${e.message}`);
+    }
+});
