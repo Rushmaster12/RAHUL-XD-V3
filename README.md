@@ -78,7 +78,7 @@ OWNERS™ :
 	
  **[3=RUSH-MASTER**
 
-<a href="https://github.com/Rushmaster12/"><img src="https://cdn.ironman.my.id/i/5yp4s8.jpeg" width=80 height=80></a>   
+<a href="https://github.com/Rushmaster12/"><img src="https://cdn.ironman.my.id/i/5yp4s8.jpeg" width=100 height=100></a>   
 
 <br>
  </p>
