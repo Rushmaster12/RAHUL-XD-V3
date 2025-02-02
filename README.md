@@ -25,7 +25,7 @@ A Multi Whatsapp Bot Created By Rahul-Master ,# RAHUL - XD - V3 ( MULTI DEVICE W
 
 01 . FIRST FORK THIS REPO ®️
 
-<a href="https://github.com/rahulmaster143/RAHUL-XD-V3/fork" target="blank"><img align="center" src="https://i.imgur.com/cxaSEWe.png" alt="Deploy bot" height="100" width="250" /></a>
+<a href="https://github.com/rahulmaster143/RAHUL-XD-V3/fork" target="blank"><img align="center" src="https://i.imgur.com/cxaSEWe.png" alt="Deploy bot" height="90" width="240" /></a>
   <div>
 <div>
 
