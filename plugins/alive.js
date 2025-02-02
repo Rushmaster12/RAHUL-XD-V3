@@ -22,7 +22,7 @@ let des = `*HEY DEAR* ,${pushname}\n *I Am AlIVE NOW....! 🖐🏻*
 
 
 > POWERED BY THE MAIN RAHUL-MASTER 🌹`
-return await conn.sendMessage(from,{image: {url: `https://i.ibb.co/Qp22bZ1/IMG-20241129-WA0428.jpg`},caption: des},{quoted: mek})
+return await conn.sendMessage(from,{image: {url: `https://files.catbox.moe/h2qai0.jpg`},caption: des},{quoted: mek})
 }catch(e){
 console.log(e)
 reply(`${e}`)
