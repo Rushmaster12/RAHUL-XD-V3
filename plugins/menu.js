@@ -4,7 +4,7 @@ cmd({
     pattern: "menu",
     desc: "menu the bot",
     category: "menu",
-    react: "📜",
+    react: "🎉",
     filename: __filename
 },
 
@@ -12,17 +12,13 @@ async(conn, mek, m,{from, quoted, body, isCmd, command, args, q, isGroup, sender
 try{
 let dec = `👋 HEY ${pushname} THIS IS MY MENU 📍
 
-*© OWNERS*  : ᴏʟᴅ ᴋɪɴɢ ᴀꜱʜ
-                      ᴏʟᴅ ᴋɪɴɢ ᴄʀᴀᴢʏ ᴄʜᴜᴛᴛᴀ
-                      ᴏʟᴅ ᴋɪɴɢ ᴄʀᴀᴢʏ ᴅɪɴᴀ
-                      
-*© SUPPORTER* : ᴅʀᴋ ᴋɪɴɢ ᴠᴀʟᴀ
-
-*© NUMBERS* : +94726645160
-                        +94701219309
-                        +94768844616
-                        
-*© SUPPORTER NUMBER* : +94767737862
+╭───────────━┈⊷
+│®️ ʙᴏᴛ ɴᴀᴍᴇ: RAHUL-XD-V3
+│☑️ ᴏᴡɴᴇʀ : RAHUL-MASTER    
+│📌 ᴠᴇʀꜱɪᴏɴ: 1.1.3
+│💫 ᴘʟᴀᴛғᴏʀᴍ: *ʟɪɴᴜx*
+│💾 ʀᴀᴍ : *258GB*
+╰───────────━┈⊷ 
 
 ╭──────────●●►
 │📌 LIST MENU
@@ -77,11 +73,11 @@ let dec = `👋 HEY ${pushname} THIS IS MY MENU 📍
 ┊＿＿＿＿＿＿＿＿＿＿＿
 ┊ .ai
 ┊ .news
+╰───────────━┈⊷
+©️I AM RAHUL-XD-V3 WHATSAPP BOT ®️
 
-I AM ACD - MD V1 WHATSAPP USER BOT 🇦🇱
 
-
-> POWERED BY THE MAIN CYBER TEAM AND DRAK ARROW 🚩`
+> POWERED BY THE MAIN RAHUL-MASTER🇮🇳`
 await conn.sendMessage(from,{image:{url: `https://i.ibb.co/Qp22bZ1/IMG-20241129-WA0428.jpg`},caption:dec},{quoted:mek});
 
 }catch(e){
