@@ -49,8 +49,8 @@ src='https://img.shields.io/badge/HOSTING%20PANEL-blue?style=for-the-badge&logo=
 <a href='https://dashboard.render.com' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/RENDER-h?color=maroon&style=for-the-badge&logo=render'/></a></p>
 
 **04  .DEPLOY ON HEROKU ✅**
-<a align="center"
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=blue&lines=𝗗𝗘𝗣𝗟𝗢𝗬+⤵️+𝗢𝗡+𝗛𝗘𝗥𝗢𝗞𝗨+🛰️)](https://git.io/typing-svg)
+</a>
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/rahulmaster143/RAHUL-XD-V3)
   </a>
