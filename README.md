@@ -74,7 +74,17 @@ OWNERS™ :
 2=©MANOJ-XD
 
 
-3=$RUSH-MASTER
+ **[3=RUSH-MASTER**
+<a href="https://github.com/Rushmaster12/"><img src="https://cdn.ironman.my.id/i/5yp4s8.jpeg" width=80 height=80></a>   
+
+|**[`𝚪𝐔𝐒𝚮-𝚳𝚫𝐒𝚻𝚵𝚪 ☯️`](https://github.com/rushmaster12)**|
+
+   ## 👑`RUSH-MD BOT OWNER`👨‍💻 
+<br>
+ </p>
+    <p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=EB+Garamond&weight=800&size=28&duration=4000&pause=1000&random=false&width=435&lines=THANKS+ALL+USE;MY+BOT+RUSH-MD" alt="Typing SVG" /></a>
+<p>---
+
 
 
 4=@ROMEK-XD
