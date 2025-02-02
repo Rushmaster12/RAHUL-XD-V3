@@ -4,7 +4,7 @@ cmd({
     pattern: "owner",
     desc: "owner the bot",
     category: "main",
-    react: "👨‍💻",
+    react: "®️",
     filename: __filename
 },
 
@@ -15,13 +15,11 @@ let dec = `*👋 Hello ${pushname}*
 
 > *MY OWNER INFO 👨‍💻* 
 
-*🔥 ᴏᴡɴᴇʀ ɴᴀᴍᴇ -: ᴀᴄᴅ-ᴍᴅ*
-🔥 *ɴᴜᴍʙᴇʀ* -: 94768844616
-🔥 *ᴡʜᴀᴛꜱᴀᴘᴘ ᴄʜᴀɴɴᴇʟ-:* https://whatsapp.com/channel/0029VatUyIgJf05e75Nlnc3Y
-
-*©ᴘᴏᴡᴇʀᴇᴅ ʙʏ ᴀᴄᴅ-ᴍᴅ*
+*🔥 ᴏᴡɴᴇʀ ɴᴀᴍᴇ -: RAHUL-XD-V3*
+🔥 *ɴᴜᴍʙᴇʀ* -: 919356730236
+*©ᴘᴏᴡᴇʀᴇᴅ ʙʏ RAHUL-XD-V3*
 `
-await conn.sendMessage(from,{image:{url: `https://i.im.ge/2024/11/28/z23eG8.IMG-20241128-WA0033.jpeg`},caption:dec},{quoted:mek});
+await conn.sendMessage(from,{image:{url: `https://files.catbox.moe/h2qai0.jpg`},caption:dec},{quoted:mek});
 
 }catch(e){
 console.log(e)
