@@ -16,11 +16,11 @@ let status = `┌─────────────────────
 ├ ⏰ *Runtime:-* ${runtime(process.uptime())}
 ├ 📟 *Ram usage:-* ${(process.memoryUsage().heapUsed / 1024 / 1024).toFixed(2)}MB / ${Math.round(require('os').totalmem / 1024 / 1024)}MB
 ├ ⚙️ *Platform:-* ${os.hostname()}
-├ 👨‍💻 *Owners:-* *DINA,CRAZY CHUTTA,KING LOKU ASH*
+├ 👨‍💻 *Owners:-* *RAHUL-MASTER*
 ├ 🧬 *Version:-* 1.0.0
 └───────────────────────
 
-*©ᴘᴏᴡᴇʀᴇᴅ ʙʏ ᴀᴄᴅ-ᴍᴅ*
+*©ᴘᴏᴡᴇʀᴇᴅ ʙʏ RAHUL-XD-V3*
 `
 return reply(`${status}`)
   
