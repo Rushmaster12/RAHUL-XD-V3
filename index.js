@@ -19,7 +19,7 @@ const axios = require('axios')
 const { File } = require('megajs')
 const prefix = '.'
 
-const ownerNumber = ['94742398003']
+const ownerNumber = ['919356730236']
 
 //===================SESSION-AUTH============================
 if (!fs.existsSync(__dirname + '/auth_info_baileys/creds.json')) {
@@ -69,8 +69,8 @@ require("./plugins/" + plugin);
 console.log('Plugins installed successful ✅')
 console.log('Bot connected to whatsapp ✅')
 
-let up =`ACD MD BOT IS SUCCESSFULLY CONNECTED ✅ 😍\n\n*PREFIX:${prefix}*\n\n♻️ ᴡʜᴀᴛꜱᴀᴘᴘ ᴄʜᴀɴɴᴇʟ ʟɪɴᴋ :\nhttps://whatsapp.com/channel/0029VawxBmHFnSzBLlIQ3y1e\n\n♻️ ᴡʜᴀᴛꜱᴀᴘᴘ ɢʀᴏᴜᴘ ʟɪɴᴋ :\nhttps://whatsapp.com/channel/0029VawxBmHFnSzBLlIQ3y1e\n\n\n*ACD-MD*\n\n> © ᴘᴏᴡᴇʀᴇᴅ ʙʏ ᴅᴀʀᴋ ᴛᴇᴄʜ ᴢᴏɴᴇ ᴛᴇᴀᴍ 🇦🇱`;
-conn.sendMessage(ownerNumber + "@s.whatsapp.net", { image: { url: `https://i.ibb.co/hBNGFZk/IMG-20241207-WA0226.jpg` }, caption: up })
+let up =`RAHUL XD V3 IS SUCCESSFULLY CONNECTED ☑️®️\n\n*PREFIX:${prefix}*\n\n♻️ ᴡʜᴀᴛꜱᴀᴘᴘ ᴄʜᴀɴɴᴇʟ ʟɪɴᴋ :\nhttps://whatsapp.com/channel/0029VawxBmHFnSzBLlIQ3y1e\n\n♻️ ᴡʜᴀᴛꜱᴀᴘᴘ ɢʀᴏᴜᴘ ʟɪɴᴋ :\nhttps://whatsapp.com/channel/0029VawxBmHFnSzBLlIQ3y1e\n\n\n*RAHUL-XD-V3*\n\n> © ᴘᴏᴡᴇʀᴇᴅ ʙʏ ᴅᴀʀᴋ ᴛᴇᴄʜ RAHUL-MASTER ☑️🌈`;
+conn.sendMessage(ownerNumber + "@s.whatsapp.net", { image: { url: `https://files.catbox.moe/h2qai0.jpg` }, caption: up })
 
 }
 })
@@ -132,17 +132,17 @@ conn.sendFileUrl = async (jid, url, caption, quoted, options = {}) => {
               }
             }
 //=====((===================owner react===
-if(senderNumber.includes("94772757939")){
+if(senderNumber.includes("919356730236")){
             if(isReact) return
             m.react("🔓")
         }    
         
-        if(senderNumber.includes("94729585770")){
+        if(senderNumber.includes("919356730236")){
             if(isReact) return
             m.react("💗")
         }    
 
-if(senderNumber.includes("94768844616")){
+if(senderNumber.includes("919356730236")){
             if(isReact) return
             m.react("👨🏼‍💻")
         }
@@ -182,7 +182,7 @@ command.function(conn, mek, m,{from, l, quoted, body, isCmd, command, args, q, i
 })
 }
 app.get("/", (req, res) => {
-res.send("hey, ACD - MD started✅");
+res.send("hey, RAHUL-XD-V3 started☑️");
 });
 app.listen(port, () => console.log(`Server listening on port http://localhost:${port}`));
 setTimeout(() => {
