@@ -64,7 +64,7 @@ src='https://img.shields.io/badge/HOSTING%20PANEL-blue?style=for-the-badge&logo=
 
 | MAIN MENU | GROUP MENU | DOWNLOAD MENU | SEARCH MENU | OTHER MENU |
 | --------| ----------- | --------- | ----------- | -------- | 
-| ✅      |  ✅         |    ✅     |     ✅      |     ✅   |
+| ✅      |  ✅         |    ✅     |     ✅      |     ®️   |
 
 
 --------
