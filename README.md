@@ -88,6 +88,8 @@ src='https://img.shields.io/badge/HOSTING%20PANEL-blue?style=for-the-badge&logo=
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <p align="center">
+
+|**[`RAHUL-MASTER`](https://github.com/Rahulmaster143)**|
 	
 **[2=MANOJ-XD** **😎HELPER**
 
@@ -99,8 +101,7 @@ src='https://img.shields.io/badge/HOSTING%20PANEL-blue?style=for-the-badge&logo=
  **[3=RUSH-MASTER** **📍2ND OWNER🚩**
 
 <a href="https://github.com/Rushmaster12/"><img src="https://cdn.ironman.my.id/i/5yp4s8.jpeg" width=100 height=100></a>  
-<br>
- </p>
+|**[`RUSH-MASTER`](https://github.com/Rushmaster12)**|
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <p align="center">
