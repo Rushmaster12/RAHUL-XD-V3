@@ -5,7 +5,7 @@ const {runtime} = require('../lib/functions')
 
 cmd({
     pattern: "apk",
-    react: "📁",
+    react: "✅",
     category: "download",
     filename: __filename
 },
