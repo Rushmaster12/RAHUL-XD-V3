@@ -66,11 +66,10 @@ DEPLOY ON HEROKU ✅
 
 OWNERS™ : 
 
+**[1=RAHUL-MASTER**
 
-1=®RAHUL-MASTER
 
-
-2=©MANOJ-XD
+**[2=MANOJ-XD**
 
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
@@ -85,7 +84,8 @@ OWNERS™ :
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <p align="center">
 
-4=@ROMEK-XD
+
+**[=ROMEK-XD**
 
 
 
