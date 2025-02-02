@@ -134,9 +134,10 @@ DONOT THINK ABOUT THAT ,
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 
-## ᴡʜᴀᴛsᴀᴘᴘ ᴄʜᴀɴɴᴇʟ // Whatsapp group
-<a href="https://t.me/hrutik_official" target="_blank">
-    <img alt="Telegram channel" src="https://img.shields.io/badge/ Telegram Channel -25D366?style=for-the-badge&logo=telegram&logoColor=white" />
+## TELEGRAM ᴄʜᴀɴɴᴇʟ // Whatsapp group
+<a href="https://t.me/hrutik_official">
+  <img src="https://img.shields.io/badge/Updates_Channel-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></img>
+</a>&nbsp; &nbsp;
 </a>
 <a href="https://chat.whatsapp.com/En01svBX9aGFRyiSTKSI4W" target="_blank">
     <img alt="whatsapp Group" src="https://img.shields.io/badge/ Whatsapp Support Group -25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
