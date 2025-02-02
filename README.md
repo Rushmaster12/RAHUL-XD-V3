@@ -3,7 +3,7 @@ A Multi Whatsapp Bot Created By Rahul-Master ,# RAHUL - XD - V3 ( MULTI DEVICE W
 24×7 HOURS STATUS AUTO SEEN MULTI DEVICE WA BOT ✅
 ***
 </p> <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Rahul+Dirt&size=65&pause=1000&color=F72C3F&background=FF20A500&center=true&vCenter=true&width=1000&height=150&lines=RAHUL-XD-V3;CREATE+BY+MAIN+RAHUL+MASTER" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Rahul+Dirt&size=65&pause=1000&color=F72C3F&background=FF20A500&center=true&vCenter=true&width=1000&height=150&lines=RAHUL-XD-V3;CREATE+BY+RAHUL+MASTER" alt="Typing SVG" /></a>
 
 ***
 
