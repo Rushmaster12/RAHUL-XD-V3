@@ -71,7 +71,7 @@ src='https://img.shields.io/badge/HOSTING%20PANEL-blue?style=for-the-badge&logo=
 
 **OWNERS™ :** 
 
-**[1=RAHUL-MASTER** **MAIN OWNER**
+**[1=RAHUL-MASTER** **📍MAIN OWNER👑**
 
 <a href="https://github.com/Rahulmaster143/"><img src="https://cdn.ironman.my.id/q/JwvTg.jpg" width=110 height=110></a>  
 <br>
@@ -81,14 +81,14 @@ src='https://img.shields.io/badge/HOSTING%20PANEL-blue?style=for-the-badge&logo=
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <p align="center">
 	
-**[2=MANOJ-XD**
+**[2=MANOJ-XD** **😎HELPER**
 
 
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <p align="center">
 	
- **[3=RUSH-MASTER**
+ **[3=RUSH-MASTER** **📍2ND OWNER🚩**
 
 <a href="https://github.com/Rushmaster12/"><img src="https://cdn.ironman.my.id/i/5yp4s8.jpeg" width=100 height=100></a>  
 <br>
@@ -98,7 +98,7 @@ src='https://img.shields.io/badge/HOSTING%20PANEL-blue?style=for-the-badge&logo=
 <p align="center">
 
 
-**[3=ROMEK-XD**
+**[3=ROMEK-XD** **ERROR FIX ❤️‍🔥**
 
 
 
