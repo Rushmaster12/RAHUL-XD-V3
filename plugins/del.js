@@ -2,7 +2,7 @@ const config = require('../config')
 const { cmd, commands } = require('../command')
 cmd({
 pattern: "del",
-react: "❌",
+react: "✅",
 alias: [","],
 desc: "delete message",
 category: "group",
