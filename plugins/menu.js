@@ -10,7 +10,7 @@ cmd({
 
 async(conn, mek, m,{from, quoted, body, isCmd, command, args, q, isGroup, sender, senderNumber, botNumber2, botNumber, pushname, isMe, isOwner, groupMetadata, groupName, participants, groupAdmins, isBotAdmins, isAdmins, reply}) => {
 try{
-let dec = `👋 HEY ${pushname} THIS IS MY MENU 📍
+let dec = `💫 HEY ${pushname} THIS IS MY MENU ®️
 
 ╭───────────━┈⊷
 │®️ ʙᴏᴛ ɴᴀᴍᴇ: RAHUL-XD-V3
@@ -77,8 +77,8 @@ let dec = `👋 HEY ${pushname} THIS IS MY MENU 📍
 ©️I AM RAHUL-XD-V3 WHATSAPP BOT ®️
 
 
-> POWERED BY THE MAIN RAHUL-MASTER🇮🇳`
-await conn.sendMessage(from,{image:{url: `https://i.ibb.co/Qp22bZ1/IMG-20241129-WA0428.jpg`},caption:dec},{quoted:mek});
+>**POWERED BY THE MAIN RAHUL-MASTER🇮🇳**`
+await conn.sendMessage(from,{image:{url: `https://i.ibb.co/d4GxTgKf/temp-image.jpg`},caption:dec},{quoted:mek});
 
 }catch(e){
 console.log(e)
