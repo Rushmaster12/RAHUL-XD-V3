@@ -81,7 +81,7 @@ https://img.shields.io/badge/🔥%20Deploy%20Now-ff0000?style=for-the-badge&logo
 
 **[1=RAHUL-MASTER** **📍MAIN OWNER👑**
 
-<a href="https://github.com/Rahulmaster143/"><img src="https://cdn.ironman.my.id/q/JwvTg.jpg" width=110 height=150></a>  
+<a href="https://github.com/Rahulmaster143/"><img src="https://cdn.ironman.my.id/q/JwvTg.jpg" width=150 height=150></a>  
 <br>
  </p>
 <p align="center">
