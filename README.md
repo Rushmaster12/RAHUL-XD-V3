@@ -71,8 +71,8 @@ src='https://img.shields.io/badge/HOSTING%20PANEL-blue?style=for-the-badge&logo=
 
 **OWNERS™ :** 
 
-**[1=RAHUL-MASTER**
-<a href="https://github.com/Rahulmaster143/"><img src="https://cdn.ironman.my.id/i/5yp4s8.jpeg" width=110 height=110></a>  
+**[1=RAHUL-MASTER** **MAIN OWNER**
+<a href="https://github.com/Rahulmaster143/"><img src="https://cdn.ironman.my.id/q/JwvTg.jpg" width=110 height=110></a>  
 <br>
  </p>
 
