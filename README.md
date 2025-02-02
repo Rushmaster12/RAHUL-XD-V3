@@ -31,7 +31,7 @@ A Multi Whatsapp Bot Created By Rahul-Master ,# RAHUL - XD - V3 ( MULTI DEVICE W
 
 02 . GET YOUR SESSION ID USING PAIRCODE ✅
 
-<a href="https://rahul-xd-v3-pair-code.onrender.com/"><img height= "25" title="Author" src="https://img.shields.io/badge/GET SESSION ID-orangered?style=for-the-badge&logo=render"></a>
+<a href="https://rahul-xd-v3-pair-code.onrender.com/"><img height= "35" title="Author" src="https://img.shields.io/badge/GET SESSION ID-orangered?style=for-the-badge&logo=render"></a>
 <p/>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
