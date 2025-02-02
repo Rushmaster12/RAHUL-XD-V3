@@ -49,11 +49,10 @@ DEPLOY ON RENDER ✅
 
 DEPLOY ON HEROKU ✅
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/ACD-MD-TEAM/ACD-MD-TESTING)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/rahulmaster143/RAHUL-XD-V3)
    </a>
 
-
-### Bot Features 📍
+  ### Bot Features ✅☑️🌈
 
 | MAIN MENU | GROUP MENU | DOWNLOAD MENU | SEARCH MENU | OTHER MENU |
 | --------| ----------- | --------- | ----------- | -------- | 
