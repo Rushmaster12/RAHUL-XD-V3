@@ -59,7 +59,12 @@ src='https://img.shields.io/badge/HOSTING%20PANEL-blue?style=for-the-badge&logo=
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/rahulmaster143/RAHUL-XD-V3)
   </a>
 
- 
+**05     .DEPLOY ON KOYEB ☑️**
+<h3>🚀 Deploy to Koyeb</h3>
+</a>
+https://img.shields.io/badge/🔥%20Deploy%20Now-ff0000?style=for-the-badge&logo=koyeb&logoColor=white&labelColor=000000
+
+
   ### Bot Features ✅☑️🌈
 
 | MAIN MENU | GROUP MENU | DOWNLOAD MENU | SEARCH MENU | OTHER MENU |
