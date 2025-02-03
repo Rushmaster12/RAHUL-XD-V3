@@ -94,7 +94,7 @@ src='https://img.shields.io/badge/HOSTING%20PANEL-blue?style=for-the-badge&logo=
 <p align="center">
 
 
-**[2=SARKAR-BHAI** **😎BIG-HELPER**
+**[2=SARKAR-BHAI** **😎BIG-HELPER** **👉ERROR FIX👑👈** 
 
 <a href="https://github.com/Sarkar-Bandaheali/"><img src="https://files.catbox.moe/73h8o3.jpg" width=107 height=107></a>
 
@@ -112,7 +112,7 @@ src='https://img.shields.io/badge/HOSTING%20PANEL-blue?style=for-the-badge&logo=
 <p align="center">
 
 
-**[3=ROMEK-XD** **ERROR FIX ❤️‍🔥**
+**[3=ROMEK-XD**
 
 <a href="https://github.com/ROMEKTRICKS/"><img src="https://files.catbox.moe/fgpxbl.jpg" width=100 height=100></a>   
 
