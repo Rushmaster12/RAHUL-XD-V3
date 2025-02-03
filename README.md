@@ -88,7 +88,7 @@ src='https://img.shields.io/badge/HOSTING%20PANEL-blue?style=for-the-badge&logo=
 <p align="center">
 
 |**['SARKAR-BANDAHEALI`]
-(https://GitHub.com/Sarkar-Bandaheali)**
+(https://GitHub.com/SarkarBandaheli)**
 
 
 
