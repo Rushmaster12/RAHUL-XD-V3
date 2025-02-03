@@ -63,6 +63,39 @@ src='https://img.shields.io/badge/HOSTING%20PANEL-blue?style=for-the-badge&logo=
 <h3>🚀 Deploy to Koyeb</h3>
 <a href="https://app.koyeb.com/deploy?name=rahul-xd-v3&repository=Rahulmaster143%2FRAHUL-XD-V3&branch=main&builder=dockerfile&instance_type=free&env%5BSESSION_ID%5D=add your session id&env%5BAUTO_STATUS_REACT%5D=true&env%5BAUTO_READ_STATUS%5D=true&env%5BOWNER_NUMBER%5D=owner numbers" target="_blank">
   <img alt="Deploy to Koyeb" src="https://img.shields.io/badge/🔥%20Deploy%20Now-ff0000?style=for-the-badge&logo=koyeb&logoCol?name=rahul-xd-v3&repository=Rahulmaster143%2FRAHUL-XD-V3&branch=main&builder=dockerfile&instance_type=free&env%5BSESSION_ID%5D=add your session id&env%5BAUTO_STATUS_REACT%5D=true&env%5BAUTO_READ_STATUS%5D=true&env%5BOWNER_NUMBER%5D=owner numbers" target="_blank">
+
+	
+ **05    .DEPLOY ON WORKFLOW**
+
+name: Node.js CI
+
+on:
+  push:
+    branches: [ "main" ]
+  pull_request:
+    branches: [ "main" ]
+
+jobs:
+  build:
+
+    runs-on: ubuntu-latest
+
+    strategy:
+      matrix:
+        node-version: [18.x, 20.x, 22.x]
+        # See supported Node.js release schedule at https://nodejs.org/en/about/releases/
+
+    steps:
+    - uses: actions/checkout@v4
+    - name: Use Node.js ${{ matrix.node-version }}
+      uses: actions/setup-node@v4
+      with:
+        node-version: ${{ matrix.node-version }}
+        cache: 'npm'
+    - run: npm ci
+    - run: npm run build --if-present
+    - run: npm test
+    
  
   ### Bot Features ✅☑️🌈
 
