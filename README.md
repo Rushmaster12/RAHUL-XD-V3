@@ -61,7 +61,7 @@ src='https://img.shields.io/badge/HOSTING%20PANEL-blue?style=for-the-badge&logo=
 **05     .DEPLOY ON KOYEB ☑️**
 </a>
 <h3>🚀 Deploy to Koyeb</h3>
-<a href="https://app.koyeb.com/deploy?name=rahul-xd-v3&repository=Rahulmaster143%2FRAHUL-XD-V3&branch=main&builder=dockerfile&instance_type=free&env%5BSESSION_ID%5D=add your session id&env%5BAUTO_STATUS_REACT%5D=true&env%5BAUTO_READ_STATUS%5D=true&env%5BOWNER_NUMBER%5D=owner numbers" target="_blank">
+<a href="https://app.koyeb.com/?service_type=web&step=review&type=git&repository=github.com%2Frahulmaster143%2FRAHUL-XD-V3&instance_type=free&regions=fra" target="_blank">
   <img alt="Deploy to Koyeb" src="https://img.shields.io/badge/🔥%20Deploy%20Now-ff0000?style=for-the-badge&logo=koyeb&logoCol?name=rahul-xd-v3&repository=Rahulmaster143%2FRAHUL-XD-V3&branch=main&builder=dockerfile&instance_type=free&env%5BSESSION_ID%5D=add your session id&env%5BAUTO_STATUS_REACT%5D=true&env%5BAUTO_READ_STATUS%5D=true&env%5BOWNER_NUMBER%5D=owner numbers" target="_blank"> 
     
  
