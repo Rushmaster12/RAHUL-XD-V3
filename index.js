@@ -69,7 +69,7 @@ require("./plugins/" + plugin);
 console.log('Plugins installed successful ✅')
 console.log('Bot connected to whatsapp ✅')
 
-let up =`RAHUL XD V3 IS SUCCESSFULLY CONNECTED ☑️®️\n\n*PREFIX:${prefix}*\n\n♻️ ᴡʜᴀᴛꜱᴀᴘᴘ ᴄʜᴀɴɴᴇʟ ʟɪɴᴋ :*RAHUL-XD-V3> © ᴘᴏᴡᴇʀᴇᴅ ʙʏ ᴅᴀʀᴋ ᴛᴇᴄʜ RAHUL-MASTER ☑️🌈`;
+let up =`RAHUL XD V3 IS SUCCESSFULLY CONNECTED ☑️®️\n\n*PREFIX:${prefix}*\n\n♻️ :*RAHUL-XD-V3> © ᴘᴏᴡᴇʀᴇᴅ ʙʏ RUSH-MASTER ☑️🌈`;
 conn.sendMessage(ownerNumber + "@s.whatsapp.net", { image: { url: `https://files.catbox.moe/h2qai0.jpg` }, caption: up })
 
 }
