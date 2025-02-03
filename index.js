@@ -59,7 +59,7 @@ if (lastDisconnect.error.output.statusCode !== DisconnectReason.loggedOut) {
 connectToWA()
 }
 } else if (connection === 'open') {
-console.log('😼 Installing... ')
+console.log('☑️ Installing... ')
 const path = require('path');
 fs.readdirSync("./plugins/").forEach((plugin) => {
 if (path.extname(plugin).toLowerCase() == ".js") {
@@ -69,7 +69,7 @@ require("./plugins/" + plugin);
 console.log('Plugins installed successful ✅')
 console.log('Bot connected to whatsapp ✅')
 
-let up =`RAHUL XD V3 IS SUCCESSFULLY CONNECTED ☑️®️\n\n*PREFIX:${prefix}*\n\n♻️ ᴡʜᴀᴛꜱᴀᴘᴘ ᴄʜᴀɴɴᴇʟ ʟɪɴᴋ :\nhttps://whatsapp.com/channel/0029VawxBmHFnSzBLlIQ3y1e\n\n♻️ ᴡʜᴀᴛꜱᴀᴘᴘ ɢʀᴏᴜᴘ ʟɪɴᴋ :\nhttps://whatsapp.com/channel/0029VawxBmHFnSzBLlIQ3y1e\n\n\n*RAHUL-XD-V3*\n\n> © ᴘᴏᴡᴇʀᴇᴅ ʙʏ ᴅᴀʀᴋ ᴛᴇᴄʜ RAHUL-MASTER ☑️🌈`;
+let up =`RAHUL XD V3 IS SUCCESSFULLY CONNECTED ☑️®️\n\n*PREFIX:${prefix}*\n\n♻️ ᴡʜᴀᴛꜱᴀᴘᴘ ᴄʜᴀɴɴᴇʟ ʟɪɴᴋ :*RAHUL-XD-V3> © ᴘᴏᴡᴇʀᴇᴅ ʙʏ ᴅᴀʀᴋ ᴛᴇᴄʜ RAHUL-MASTER ☑️🌈`;
 conn.sendMessage(ownerNumber + "@s.whatsapp.net", { image: { url: `https://files.catbox.moe/h2qai0.jpg` }, caption: up })
 
 }
