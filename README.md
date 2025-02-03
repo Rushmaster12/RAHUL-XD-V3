@@ -98,7 +98,7 @@ src='https://img.shields.io/badge/HOSTING%20PANEL-blue?style=for-the-badge&logo=
 
 <a href="https://github.com/Sarkar-Bandaheali/"><img src="https://files.catbox.moe/73h8o3.jpg" width=100 height=100></a>
 
-|**[`SARKAR-Programer`](https://github.com/sarkar-Bandaheli)**|
+|**[`SARKAR-Programer`](https://github.com/Sarkar-Bandaheali/)**|
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <p align="center">
