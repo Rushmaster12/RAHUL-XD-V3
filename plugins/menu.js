@@ -14,7 +14,7 @@ let dec = `💫 HEY ${pushname} THIS IS MY MENU ®️
 
 ╭───────────━┈⊷
  ®️│ʙᴏᴛ ɴᴀᴍᴇ: RAHUL-XD-V3
-│⭐ ᴏᴡɴᴇʀ : [*RAHUL-MASTER*]  
+│⭐ ᴏᴡɴᴇʀ : *RAHUL-MASTER 
 │📌 ᴠᴇʀꜱɪᴏɴ: 1.1.3
 │🪩 ᴘʟᴀᴛғᴏʀᴍ: *ʟɪɴᴜx*
 │💾 ʀᴀᴍ : *258GB*
