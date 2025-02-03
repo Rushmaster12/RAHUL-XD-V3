@@ -82,7 +82,7 @@ src='https://img.shields.io/badge/HOSTING%20PANEL-blue?style=for-the-badge&logo=
 
 **[1=RAHUL-MASTER** **📍MAIN OWNER👑**
 
-<a href="https://github.com/Rahulmaster143/"><img src="https://cdn.ironman.my.id/q/JwvTg.jpg" width=150 height=150></a>  
+<a href="https://github.com/Rahulmaster143/"><img src="https://cdn.ironman.my.id/q/JwvTg.jpg" width=170 height=170></a>  
 <br>
  </p>
 <p align="center"> 
@@ -105,7 +105,7 @@ src='https://img.shields.io/badge/HOSTING%20PANEL-blue?style=for-the-badge&logo=
 	
  **[3=RUSH-MASTER** **📍2ND OWNER🚩**
 
-<a href="https://github.com/Rushmaster12/"><img src="https://cdn.ironman.my.id/i/5yp4s8.jpeg" width=100 height=100></a>  
+<a href="https://github.com/Rushmaster12/"><img src="https://files.catbox.moe/9cnuhu.jpg" width=107 height=107></a>  
 |**[`RUSH-MASTER`](https://github.com/Rushmaster12)**|
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
