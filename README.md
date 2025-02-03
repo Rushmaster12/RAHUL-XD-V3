@@ -88,8 +88,10 @@ src='https://img.shields.io/badge/HOSTING%20PANEL-blue?style=for-the-badge&logo=
 <p align="center">
 
 |**['SARKAR-BANDAHEALI`]
-(https://GitHub.com/SarkarBandaheli)**
-
+(https://gitHub.com/SarkarBandaheli)**
+<a><img
+src='https://i.imgur.com/LyHic3i.gif'/></a>
+<p align="center">
 
 
 |**[`RAHUL-MASTER`](https://github.com/Rahulmaster143)**|
