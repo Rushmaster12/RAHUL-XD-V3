@@ -90,7 +90,7 @@ let dec = `💫 HEY ${pushname} THIS IS MY MENU ®️
 
 >**POWERED BY THE MAIN RAHUL-MASTER🇮🇳**`
 await conn.sendMessage(from,{image:{url: `https://i.ibb.co/d4GxTgKf/temp-image.jpg`},caption:dec},{quoted:mek});
-
+    
 }catch(e){
 console.log(e)
 reply(`${e}`)
