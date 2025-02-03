@@ -96,7 +96,7 @@ src='https://img.shields.io/badge/HOSTING%20PANEL-blue?style=for-the-badge&logo=
 
 **[2=SARKAR-BHAI** **😎BIG-HELPER**
 
-<a href="https://github.com/Sarkar-Bandaheali/"><img src="https://files.catbox.moe/73h8o3.jpg" width=100 height=100></a>
+<a href="https://github.com/Sarkar-Bandaheali/"><img src="https://files.catbox.moe/73h8o3.jpg" width=107 height=107></a>
 
 |**[`SARKAR-Programer`](https://github.com/Sarkar-Bandaheali/)**|
 
