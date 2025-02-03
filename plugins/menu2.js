@@ -85,7 +85,8 @@ let madeMenu = `👋 𝐇𝐄𝐋𝐋𝐎, ${pushname}!
 > *© ᴘᴏᴡᴇʀᴇᴅ ʙʏ RAHUL-MASTER*
 `
 
-await conn.sendMessage(from,{image:{url: `https://i.ibb.co/d4GxTgKf/temp-image.jpg`}config.ALIVE_IMG},caption:madeMenu},{quoted:mek})
+await conn.sendMessage(from,{image:{url: `https://i.ibb.co/d4GxTgKf/temp-image.jpg`},caption:dec},{quoted:mek});
+    
 
 }catch(e){
 console.log(e)
