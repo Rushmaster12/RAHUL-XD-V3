@@ -87,18 +87,18 @@ src='https://img.shields.io/badge/HOSTING%20PANEL-blue?style=for-the-badge&logo=
  </p>
 <p align="center"> 
 
-
 |**[`RAHUL-MASTER`](https://github.com/Rahulmaster143)**|
+
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <p align="center">
 
 
-	
-**[2=MANOJ-XD** **😎HELPER**
+**[2=SARKAR-BHAI** **😎BIG-HELPER**
 
+<a href="https://github.com/Sarkar-Bandaheali/"><img src="https://files.catbox.moe/73h8o3.jpg" width=100 height=100></a>
 
-|**[`MANOJ-XD`](https://github.com/)**|
+|**[`SARKAR-Programer`](https://github.com/)**|
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <p align="center">
